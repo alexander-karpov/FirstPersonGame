@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/StarterAssets/FirstPersonController/Scenes/Playground.unity
-    guid: 707acc8dffb72b144bb1ffbe1c965f3d
+    path: Assets/Scenes/Maze.unity
+    guid: b524c61a5b64942d2a2140eb587a29d2
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
